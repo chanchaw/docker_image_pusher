@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 fcojean/l2tp-ipsec-vpn-server
 hwdsl2/ipsec-vpn-client
+weejewel/wg-easy:latest
