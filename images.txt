@@ -7,3 +7,4 @@ xhofe/alist:latest
 fcojean/l2tp-ipsec-vpn-server
 weejewel/wg-easy:latest
 linuxserver/wireguard
+gdy666/lucky
