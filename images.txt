@@ -9,3 +9,4 @@ weejewel/wg-easy:latest
 linuxserver/wireguard
 gdy666/lucky
 jellyfin/jellyfin:latest
+gaomd/ikev2-vpn-server
