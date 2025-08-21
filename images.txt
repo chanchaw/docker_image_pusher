@@ -1,3 +1,4 @@
+gaomd/ikev2-vpn-server
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
@@ -9,4 +10,3 @@ weejewel/wg-easy:latest
 linuxserver/wireguard
 gdy666/lucky
 jellyfin/jellyfin:latest
-gaomd/ikev2-vpn-server
