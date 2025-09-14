@@ -1,3 +1,4 @@
+jenkinsci/blueocean
 rustdesk/rustdesk-server
 hwdsl2/ipsec-vpn-server
 # gaomd/ikev2-vpn-server 2025年8月21日测试多次都没有成功
