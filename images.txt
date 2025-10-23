@@ -1,1 +1,1 @@
-leifengyang/jenkins:2.455-jdk21
+openzipkin/zipkin-slim
