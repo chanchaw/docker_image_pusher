@@ -1,1 +1,1 @@
-openzipkin/zipkin-slim
+apache/kafka:4.1.0
