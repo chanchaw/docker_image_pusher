@@ -1,1 +1,1 @@
-chrisvel/tududi:latest
+docker pull apache/rocketmq:4.8.0
