@@ -1,1 +1,1 @@
-docker pull lanol/filecodebox:beta
+docker pull filebrowser/filebrowser
