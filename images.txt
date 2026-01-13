@@ -1,1 +1,1 @@
-docker pull lanol/filecodebox:latest
+docker pull lanol/filecodebox:beta
