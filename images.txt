@@ -1,1 +1,1 @@
-docker pull ghcr.io/savoirfairelinux/opendht/opendht-alpine:latest
+docker pull snailchat/snailchat-server:latest
