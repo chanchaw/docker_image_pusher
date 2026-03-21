@@ -1,1 +1,1 @@
-docker pull filebrowser/filebrowser:latest
+docker pull ghcr.io/savoirfairelinux/opendht/opendht-alpine:latest
